@@ -369,7 +369,7 @@ export default function PixelArtConverter() {
       }}>
         disclaimer: no pictures are uploaded to any server, all processing is done locally in your browser!
         <p style={{ color: "#6b5b8a", marginTop: 4 }}>
-        if you decide to post them, please credit <a href="https://arturlima.me/projects/pixelator" style={{ color: "#e94560", textDecoration: "none" }}>pixelator </a> :)
+        if you decide to post them, please credit <a href="https://arturlima.me/projects/pixelator/" style={{ color: "#e94560", textDecoration: "none" }}>pixelator </a> :)
         </p>
       </div>
 
