@@ -28,4 +28,4 @@ Drop `.jpg`, `.jpeg`, `.png`, or `.webp` files into `src/assets/examples/`. They
 npm run build
 ```
 
-Output goes to `dist/`.
+Output then goes to `dist/`.
