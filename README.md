@@ -1,6 +1,6 @@
 # Pixelator
 
-A browser-based photo to pixel art converter. All processing happens locally — no images are uploaded to any server.
+browser-based photo to pixel art converter. all processing happens locally so no images are uploaded to any server :)
 
 ## Features
 
@@ -11,14 +11,14 @@ A browser-based photo to pixel art converter. All processing happens locally —
 - Example images to try without uploading your own
 - PNG download
 
-## Development
+## Running
 
 ```bash
 npm install
 npm run dev
 ```
 
-## Adding Examples
+## If you want to add Image Examples
 
 Drop `.jpg`, `.jpeg`, `.png`, or `.webp` files into `src/assets/examples/`. They are picked up automatically at build time — no code changes needed. The filename becomes the label (underscores and hyphens become spaces).
 
