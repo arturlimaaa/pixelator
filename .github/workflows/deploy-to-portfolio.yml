@@ -30,6 +30,6 @@ jobs:
           personal_token: ${{ secrets.PORTFOLIO_PAT }}
           external_repository: arturlimaaa/portfolio
           publish_dir: ./dist
-          destination_dir: projects/pixelator
+          destination_dir: projects/pixelator-app
           publish_branch: main
           keep_files: false
